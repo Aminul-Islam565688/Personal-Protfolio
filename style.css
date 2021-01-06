@@ -96,8 +96,8 @@ p{
     background-repeat: no-repeat;
     width: 540px;
     height: 250px;
-    margin: auto;
-    margin-top: 115px;
+    margin-left: 217px;
+    margin-top: 90px;
     overflow: visible;
 }
 .work-h2{
@@ -120,7 +120,7 @@ p{
     margin-top: -46px;
 }
 .fotter{
-    margin-left: 340px;
+    margin-left: 358px;
 }
 .fotter h3 {
     font-size: 28px;
@@ -134,7 +134,7 @@ p{
 }
 
 .icons {
-    margin-left: 351px;
+    margin-left: 369px;
 }
 
 
