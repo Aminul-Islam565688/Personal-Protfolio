@@ -52,7 +52,7 @@ p{
 }
 .half-width img{
     width: 375px;
-    margin-top: -51px;
+    margin-top: 8px;
 }
 .usingmargin{
     margin-top: 70px;
@@ -136,7 +136,9 @@ p{
 .icons {
     margin-left: 369px;
 }
-
+section#second {
+    padding-bottom: 70px;
+}
 
 
 
